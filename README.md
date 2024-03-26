@@ -7,4 +7,8 @@ The project focuses on implementing logistic regression for hate speech detectio
 
 - Preprocessing techniques for cleaning and tokenizing Twitter data.
 - Implementation of logistic regression algorithm for hate speech detection.
+- Perfectly balancing the dataset.
 - Evaluation metrics for assessing model performance, including accuracy, precision, recall, and F1-score.
+  ## Result
+- By using logistic regression, we have achieved an accuracy of 93% (approx)
+- We can also test it by giving a custom input
