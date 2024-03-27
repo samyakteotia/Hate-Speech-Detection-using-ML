@@ -9,6 +9,12 @@ The project focuses on implementing logistic regression for hate speech detectio
 - Implementation of logistic regression algorithm for hate speech detection.
 - Perfectly balancing the dataset.
 - Evaluation metrics for assessing model performance, including accuracy, precision, recall, and F1-score.
-  ## Result
+## Methodology
+<img width="935" alt="Screenshot 2024-01-20 225915" src="https://github.com/samyakteotia/Hate-Speech-Detection-using-ML/assets/124557415/5a239cf9-27b6-4636-833f-e93d80f9976f">
+
+## Confusion matrix and f1 score
+ ![image](https://github.com/samyakteotia/Hate-Speech-Detection-using-ML/assets/124557415/c7f1cc4c-e384-4d3b-93d2-a595103f4f71)
+
+## Result
 - By using logistic regression, we have achieved an accuracy of 93% (approx)
 - We can also test it by giving a custom input
